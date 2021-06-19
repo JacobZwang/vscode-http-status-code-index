@@ -10,14 +10,14 @@
 		"Other"
 	],
 	"activationEvents": [
-		"onCommand:http-status-code-index.helloWorld"
+		"onCommand:http-status-code-index.search"
 	],
 	"main": "./out/extension.js",
 	"contributes": {
 		"commands": [
 			{
-				"command": "http-status-code-index.helloWorld",
-				"title": "Hello World"
+				"command": "http-status-code-index.search",
+				"title": "Search Http Status Codes"
 			}
 		]
 	},
