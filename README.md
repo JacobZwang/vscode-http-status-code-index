@@ -24,3 +24,7 @@ status codes are slightly out of date
 * status codes in quick pick menu
 * full text search
 * inserts status code when after selection
+
+### 1.0.1
+
+* add instructions to read me
