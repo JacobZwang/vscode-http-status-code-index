@@ -2,6 +2,10 @@
 
 > lets you search for and insert http status codes within vscode
 
+```
+ctrl-shift-p > Search Http Status Codes
+```
+
 ## Features
 * status codes in quick pick menu
 * full text search
