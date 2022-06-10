@@ -5,7 +5,7 @@
 	"version": "1.0.2",
 	"publisher": "JacobZwang",
 	"repository": "https://github.com/JacobZwang/vscode-http-status-code-index",
-	"icon": "./icon.png",
+	"icon": "icon.png",
 	"engines": {
 		"vscode": "^1.57.0"
 	},
