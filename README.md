@@ -1,6 +1,6 @@
 # http-status-code-index README
 
-> lets you search for and insert http status codes within vscode
+> search for and insert http status codes in vscode editor
 
 Windows / Linux
 ```
