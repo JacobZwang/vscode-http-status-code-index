@@ -2,9 +2,10 @@
 	"name": "http-status-code-index",
 	"displayName": "Http Status Code Index",
 	"description": "",
-	"version": "1.0.1",
+	"version": "1.0.2",
 	"publisher": "JacobZwang",
 	"repository": "https://github.com/JacobZwang/vscode-http-status-code-index",
+	"icon": "./icon.png",
 	"engines": {
 		"vscode": "^1.57.0"
 	},
